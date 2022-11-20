@@ -1,0 +1,27 @@
+Enlaces de Matplolib
+
+https://matplotlib.org/stable/tutorials/introductory/quick_start.html
+https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplot.html
+https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/
+https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
+https://matplotlib.org/3.5.1/tutorials/colors/colors.html
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
+https://matplotlib.org/stable/gallery/index.html
+
+Enlaces de Seaborn
+https://github.com/mwaskom/seaborn
+https://seaborn.pydata.org/tutorial/function_overview.html
+https://seaborn.pydata.org/index.html
+https://seaborn.pydata.org/generated/seaborn.color_palette.html#seaborn.color_palette
+https://seaborn.pydata.org/generated/seaborn.set_theme.html#seaborn.set_theme
+https://seaborn.pydata.org/generated/seaborn.load_dataset.html
+https://github.com/mwaskom/seaborn-data
+https://seaborn.pydata.org/tutorial/distributions.html
+https://seaborn.pydata.org/tutorial/categorical.html
+https://seaborn.pydata.org/generated/seaborn.relplot.html
+https://seaborn.pydata.org/generated/seaborn.jointplot.html
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
+https://seaborn.pydata.org/generated/seaborn.heatmap.html
+
